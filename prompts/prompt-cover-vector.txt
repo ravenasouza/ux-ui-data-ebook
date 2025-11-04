@@ -1,0 +1,5 @@
+Prompt:
+
+minimalist vector illustration representing data-driven UX/UI design, no people, abstract geometric composition of charts, graphs, flow lines and UI elements interacting together concept of digital analysis and design harmony, smooth gradients, clean layout, futuristic interface concept, 
+thin lines, pastel blue and soft purple tones, high contrast, elegant symmetry, SVG vector style, flat minimal design, white background, 
+--ar 1:1 --v 6 --style minimalist --quality 2
